@@ -1,0 +1,8 @@
+<mm:style name="bullet + body" apply="replace" font="Georgia, Times New Roman, Times, serif" size="3" color="#FFFFFF" />
+<mm:style name="bullet 7 body blue" type="char" apply="replace" font="Georgia, Times New Roman, Times, serif" size="3" color="#99FFFF" />
+<mm:style name="emphasis" type="char" apply="replace" font="Georgia, Times New Roman, Times, serif" size="3" color="#99FFFF" italic emphasis />
+<mm:style name="head" format="h5" align="left" apply="replace" font="Verdana, Arial, Helvetica, sans-serif" size="4" color="#FFFF33" />
+<mm:style name="paren" apply="replace" font="Georgia, Times New Roman, Times, serif" size="3" color="#FFCCFF" />
+<mm:style name="subhead" format="h3" align="left" apply="replace" font="Verdana, Arial, Helvetica, sans-serif" color="#CCCCCC" italic />
+<mm:style name="subhead2" format="h4" align="left" apply="replace" font="Georgia, Times New Roman, Times, serif" color="#99FFFF" />
+
